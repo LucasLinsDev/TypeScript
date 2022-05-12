@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasLinsDev/TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasLinsDev/TypeScript/issues"
+  },
+  "homepage": "https://github.com/LucasLinsDev/TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
