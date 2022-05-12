@@ -5,4 +5,4 @@ idade=25
 function somaIdade(idadeInicial:number,anos:number){
   return idadeInicial+anos
 }
-somaIdate(25,1);
+somaIdade(25,1);
